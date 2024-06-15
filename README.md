@@ -28,6 +28,7 @@ Results: View the detection results and suggested treatments if a disease is det
 bash
 Copy code
 plant-disease-detection/
+
 ├── app.py                
 ├── models/             
 ├── data/                            
