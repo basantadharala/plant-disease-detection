@@ -1,6 +1,10 @@
 ## 🌿 Plant Disease Detection with Streamlit 🌿
  Welcome to the Plant Disease Detection project! This application uses machine learning to detect diseases in plants from images. Below you'll find instructions on how to set up and run the application.
+##🌾 Dataset
+The dataset used for training the model consists of various images of plant leaves categorized as healthy or diseased. The dataset includes images of common crops like tomatoes, potatoes, and corn with labels indicating specific diseases.
 
+Downloading the Dataset
+You can download the dataset from Kaggle [PlantVillage](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) Dataset or any other plant disease image dataset you prefer.
 📋 Table of Contents
 Prerequisites
 Installation
