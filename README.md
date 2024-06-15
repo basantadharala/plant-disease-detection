@@ -43,12 +43,12 @@ Results: View the detection results and suggested treatments if a disease is det
 bash
 Copy code
 plant-disease-detection/
-├── app.py                 # Main application file
-├── models/                # Directory for machine learning models
-├── data/                  # Directory for datasets               
-├── requirements.txt       # List of required packages
-└── README.md              # Project README file
-##🤝 Contributing
+├── app.py                
+├── models/             
+├── data/                            
+├── requirements.txt    
+└── README.md              
+## 🤝 Contributing
 We welcome contributions! To contribute:
 
 ## Fork the repository
