@@ -1,15 +1,14 @@
 ## 🌿 Plant Disease Detection with Streamlit 🌿
  Welcome to the Plant Disease Detection project! This application uses machine learning to detect diseases in plants from images. Below you'll find instructions on how to set up and run the application.
 
-##📋 Table of Contents
-#Prerequisites
-#Installation
-#Running the App
-#Usage
-#Project Structure
-#Contributing
-#License
-#✅ Prerequisites
+📋 Table of Contents
+Prerequisites
+Installation
+Running the App
+Project Structure
+Contributing
+License
+✅ Prerequisites
 Before you begin, ensure you have the following installed:
 
 ## Python 3.7+
