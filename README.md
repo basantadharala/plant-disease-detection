@@ -11,21 +11,6 @@ License
 ✅ Prerequisites
 Before you begin, ensure you have the following installed:
 
-## Python 3.7+
-pip (Python package installer)
-##💾 Installation
-Clone the repository
-
-
-git clone https://github.com/yourusername/plant-disease-detection.git
-cd plant-disease-detection
-Create a virtual environment
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install the required packages
-
 
 pip install -r requirements.txt
 ##🚀 Running the App
